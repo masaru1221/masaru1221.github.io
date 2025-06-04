@@ -3,7 +3,7 @@
 -------------------- */
 
 :root {
-  --theme-color: #87cefa;
+  --theme-color:#000000;
 }
 
 * {
@@ -18,7 +18,7 @@ html, body {
 body {
   margin: 0;
   padding: 30px;
-  color: #000000;
+  color: #333;
 }
 
 /* --------------------
@@ -62,10 +62,10 @@ table {
   min-width: 70%;
 }
 tr {
-  background-color: #87cefa;
+  background-color: #fff;
 }
 tr:nth-child(2n) {
-  background-color: #87cefa;
+  background-color: #f9f9f9;
 }
 th {
   background: var(--theme-color);
