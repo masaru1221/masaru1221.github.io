@@ -62,10 +62,10 @@ table {
   min-width: 70%;
 }
 tr {
-  background-color: #fff;
+  background-color: #87cefa;
 }
 tr:nth-child(2n) {
-  background-color: #f9f9f9;
+  background-color: #87cefa;
 }
 th {
   background: var(--theme-color);
